@@ -19,7 +19,7 @@
 (def scene-height 620)
 
 ;; These can all be changed and will refresh on the fly
-(def pin-cols 15)
+(def pin-cols 20)
 (def pin-rows 16)
 (def start-x 1)
 (def start-y 37)
@@ -80,24 +80,24 @@
   (.rectangle Bodies scene-width (/ scene-height 2) right-wall-width scene-height #js {:isStatic true}))
 
 ;; Some useful helper functions for live reload
-(defn clear-composites []
+(defn clear-pins []
   "Clear the pins"
   (doseq [composite (.allComposites Composite world)]
      (.removeComposite Composite world composite)))
 
-(defn clear-statics []
+(defn clear-borders []
   "Clear the walls and ground"
   (let [bodies (.allBodies Composite world)]
     (doseq [static (filter #(.-isStatic %) bodies)]
        (.removeBody Composite world static))))
 
-(defn clear-dynamics []
+(defn clear-balls []
   "Clear the balls"
   (let [bodies (.allBodies Composite world)]
     (doseq [dynamic (filter #(not (.-isStatic %)) bodies)]
       (.removeBody Composite world dynamic))))
 
-(defn create-statics-and-composites []
+(defn create-environment []
   "Creates walls, ground and pins"
   (let [pin-stack (create-pin-stack-rows)
         pin-stack-offset (create-pin-stack-offset-rows)
@@ -115,18 +115,18 @@
   "Start it all off by adding event listeners, creating the environment and
   adding a ball"
   (add-random-ball)
-  (create-statics-and-composites)
+  (create-environment)
   (.run Engine engine)
   (on-click "add-ball" add-random-ball)
   (on-click "make-it-rain" (fn [e] (doseq [x (range 100)] (add-random-ball))))
-  (on-click "clear-balls" clear-dynamics))
+  (on-click "clear-balls" clear-balls))
 
 (.addEventListener js/document "DOMContentLoaded" initialize)
 
 ;; Live reload
 (fw/start {:on-jsload (fn []
                (do (.render Engine engine)
-                   (clear-composites)
-                   (clear-statics)
-                   (create-statics-and-composites)
+                   (clear-pins)
+                   (clear-borders)
+                   (create-environment)
                    (add-random-ball)))})
