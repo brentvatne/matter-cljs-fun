@@ -7,14 +7,6 @@ body {
   margin-bottom: 20px;
 }
 
-canvas {
-  background: rgb(249, 249, 249);
-  margin: 0 auto;
-  display: block;
-  border: 10px solid #E3E3E3;
-  box-shadow: 2px 4px 8px rgba(80, 80, 80, 0.4);
-}
-
 a {
   display: inline-block;
   text-decoration: none;

@@ -13,4 +13,6 @@ goog.addDependency("../cljs/reader.js", ['cljs.reader'], ['goog.string', 'cljs.c
 goog.addDependency("../figwheel/client/socket.js", ['figwheel.client.socket'], ['cljs.core', 'cljs.reader']);
 goog.addDependency("../figwheel/client/heads_up.js", ['figwheel.client.heads_up'], ['cljs.core', 'cljs.core.async', 'figwheel.client.socket', 'clojure.string']);
 goog.addDependency("../figwheel/client.js", ['figwheel.client'], ['goog.Uri', 'cljs.core', 'cljs.core.async', 'figwheel.client.file_reloading', 'figwheel.client.heads_up', 'figwheel.client.socket', 'clojure.string']);
-goog.addDependency("../matter_cljs_fun/core.js", ['matter_cljs_fun.core'], ['cljs.core', 'figwheel.client']);
+goog.addDependency("../matter_cljs_fun/util.js", ['matter_cljs_fun.util'], ['goog.dom.classes', 'cljs.core', 'cljs.core.async', 'goog.events.EventType', 'figwheel.client', 'goog.events']);
+goog.addDependency("../matter_cljs_fun/plinko.js", ['matter_cljs_fun.plinko'], ['matter_cljs_fun.util', 'cljs.core', 'figwheel.client']);
+goog.addDependency("../matter_cljs_fun/pong.js", ['matter_cljs_fun.pong'], ['goog.dom.classes', 'matter_cljs_fun.util', 'cljs.core', 'cljs.core.async', 'figwheel.client', 'goog.events']);

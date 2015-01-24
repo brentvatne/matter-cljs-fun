@@ -1,18 +1,9 @@
-(ns matter-cljs-fun.core
+(ns matter-cljs-fun.plinko
   (:require
+    [matter-cljs-fun.util :refer [Matter Engine World Body Bodies Composites Composite]]
     [figwheel.client :as fw]))
 
 (enable-console-print!)
-
-;; Set up some helpers
-(def Matter (.-Matter js/window))
-(def Engine (.-Engine Matter))
-(def World (.-World Matter))
-(def Body (.-Body Matter))
-(def Bodies (.-Bodies Matter))
-(def Constraint (.-Constraint Matter))
-(def Composites (.-Composites Matter))
-(def Composite (.-Composite Matter))
 
 ;; These cannot be changed without refreshing the browser
 (def scene-width 595)
@@ -44,7 +35,10 @@
 ;; We only ever need to define the engine and world once, multiple definitions
 ;; will interfere with live reload
 (defonce engine
-  (.create Engine (.getElementById js/document "canvas-container") (clj->js engine-options)))
+  (.create Engine
+           (.getElementById js/document "canvas-container")
+           (clj->js engine-options)))
+
 (defonce world
   (.-world engine))
 
