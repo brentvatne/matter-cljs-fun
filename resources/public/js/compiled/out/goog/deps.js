@@ -43,3 +43,5 @@ goog.addDependency("events/listenable.js", ['goog.events.Listenable', 'goog.even
 goog.addDependency("events/listener.js", ['goog.events.Listener'], ['goog.events.ListenableKey']);
 goog.addDependency("events/listenermap.js", ['goog.events.ListenerMap'], ['goog.array', 'goog.events.Listener', 'goog.object']);
 goog.addDependency("events/events.js", ['goog.events', 'goog.events.CaptureSimulationMode', 'goog.events.Key', 'goog.events.ListenableType'], ['goog.asserts', 'goog.debug.entryPointRegistry', 'goog.events.BrowserEvent', 'goog.events.BrowserFeature', 'goog.events.Listenable', 'goog.events.ListenerMap']);
+goog.addDependency("string/stringformat.js", ['goog.string.format'], ['goog.string']);
+goog.addDependency("ui/idgenerator.js", ['goog.ui.IdGenerator'], []);

@@ -5986,3 +5986,2518 @@ notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
 [0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
 [32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.282 seconds.[0m
 notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.317 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/util.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.303 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/util.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.299 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/util.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.345 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/util.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.697 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.709 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.669 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.241 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.277 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.512 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.714 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.685 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.506 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.566 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.488 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.525 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+WARNING: Use of undeclared Var matter-cljs-fun.pong/velocity-x at line 68 src/matter_cljs_fun/pong.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.718 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+WARNING: Use of undeclared Var matter-cljs-fun.pong/velocity-x at line 68 src/matter_cljs_fun/pong.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.584 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.523 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.728 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.556 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.73 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.497 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.528 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+WARNING: Use of undeclared Var matter-cljs-fun.pong/x-src at line 83 src/matter_cljs_fun/pong.cljs
+WARNING: Use of undeclared Var matter-cljs-fun.pong/y-src at line 83 src/matter_cljs_fun/pong.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.862 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+WARNING: Use of undeclared Var matter-cljs-fun.pong/x-src at line 83 src/matter_cljs_fun/pong.cljs
+WARNING: Use of undeclared Var matter-cljs-fun.pong/y-src at line 83 src/matter_cljs_fun/pong.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.549 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.682 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.557 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.515 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.471 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.707 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.51 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.494 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.493 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.248 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/util.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/matter_cljs_fun.js" failed.[0m
+[31mclojure.lang.ExceptionInfo: [39m[31mfailed compiling file:src/matter_cljs_fun/pong.cljs[39m
+[35m               core.clj:4403 clojure.core/ex-info[39m
+[32m           compiler.clj:1039 cljs.compiler/compile-file[39m
+[32m           compiler.clj:1069 cljs.compiler/compile-root[39m
+[32m             closure.clj:358 cljs.closure/compile-dir[39m
+[32m             closure.clj:398 cljs.closure/eval10834[fn][39m
+[32m             closure.clj:306 cljs.closure/eval10770[fn][39m
+[32m             closure.clj:412 cljs.closure/eval10821[fn][39m
+[32m             closure.clj:306 cljs.closure/eval10770[fn][39m
+[32m                 core.clj:18 clojurescript-build.core.CompilableSourcePaths/fn[39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[35m                core.clj:624 clojure.core/apply[39m
+[35m               core.clj:2586 clojure.core/mapcat[39m
+[36m             RestFn.java:423 clojure.lang.RestFn.invoke[39m
+[32m                 core.clj:18 clojurescript-build.core/clojurescript-build.core.CompilableSourcePaths[39m
+[32m            closure.clj:1018 cljs.closure/build[39m
+[32m                core.clj:150 clojurescript-build.core/build-source-paths*[39m
+[32m                 auto.clj:86 clojurescript-build.auto/warning[fn][39m
+[32m                 auto.clj:55 clojurescript-build.auto/time-build[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:71 clojurescript-build.auto/error[fn][39m
+[32m                 auto.clj:60 clojurescript-build.auto/before[fn][39m
+[32m                auto.clj:103 clojurescript-build.auto/make-conditional-builder[fn][39m
+[35m               core.clj:6353 clojure.core/mapv[fn][39m
+[36m          ArrayChunk.java:58 clojure.lang.ArrayChunk.reduce[39m
+[35m            protocols.clj:98 clojure.core.protocols/fn[39m
+[35m            protocols.clj:19 clojure.core.protocols/fn[fn][39m
+[35m            protocols.clj:31 clojure.core.protocols/seq-reduce[39m
+[35m            protocols.clj:60 clojure.core.protocols/fn[39m
+[35m            protocols.clj:13 clojure.core.protocols/fn[fn][39m
+[35m               core.clj:6289 clojure.core/reduce[39m
+[35m               core.clj:6353 clojure.core/mapv[39m
+[32m                auto.clj:180 clojurescript-build.auto/autobuild*[fn][39m
+[32m                auto.clj:176 clojurescript-build.auto/autobuild*[fn][39m
+[35m          ioc_macros.clj:940 clojure.core.async.impl.ioc-macros/run-state-machine[39m
+[35m          ioc_macros.clj:944 clojure.core.async.impl.ioc-macros/run-state-machine-wrapped[39m
+[35m               async.clj:362 clojure.core.async/ioc-alts![fn][39m
+[35m               async.clj:231 clojure.core.async/do-alts[fn][39m
+[35m            channels.clj:262 clojure.core.async.impl.channels.ManyToManyChannel/fn[39m
+[36m                 AFn.java:22 clojure.lang.AFn.run[39m
+[34mThreadPoolExecutor.java:1145 java.util.concurrent.ThreadPoolExecutor.runWorker[39m
+[34m ThreadPoolExecutor.java:615 java.util.concurrent.ThreadPoolExecutor$Worker.run[39m
+[34m             Thread.java:745 java.lang.Thread.run[39m
+[31mCaused by: [39m[31mclojure.lang.ExceptionInfo: [39m[31mEOF while reading, starting at line 97[39m
+[35m               core.clj:4403 clojure.core/ex-info[39m
+[35m        reader_types.clj:336 clojure.tools.reader.reader-types/reader-error[39m
+[36m             RestFn.java:439 clojure.lang.RestFn.invoke[39m
+[35m              reader.clj:167 clojure.tools.reader/read-delimited[39m
+[35m              reader.clj:173 clojure.tools.reader/read-list[39m
+[35m              reader.clj:747 clojure.tools.reader/read[39m
+[35m              reader.clj:732 clojure.tools.reader/read[39m
+[32m           analyzer.clj:1742 cljs.analyzer/forms-seq[fn][39m
+[32m           analyzer.clj:1736 cljs.analyzer/forms-seq[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[32m            compiler.clj:946 cljs.compiler/compile-file*[fn][39m
+[32m            compiler.clj:906 cljs.compiler/with-core-cljs[39m
+[32m            compiler.clj:927 cljs.compiler/compile-file*[39m
+[32m           compiler.clj:1033 cljs.compiler/compile-file[39m
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.513 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.182 seconds.[0m
+notifying browser that file changed:  /js/compiled/matter_cljs_fun.js
+notifying browser that file changed:  /js/compiled/out/goog/deps.js
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/plinko.js
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/util.js
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/matter_cljs_fun.js" failed.[0m
+[31mclojure.lang.ExceptionInfo: [39m[31mfailed compiling file:src/matter_cljs_fun/pong.cljs[39m
+[35m               core.clj:4403 clojure.core/ex-info[39m
+[32m           compiler.clj:1039 cljs.compiler/compile-file[39m
+[32m           compiler.clj:1069 cljs.compiler/compile-root[39m
+[32m             closure.clj:358 cljs.closure/compile-dir[39m
+[32m             closure.clj:398 cljs.closure/eval10834[fn][39m
+[32m             closure.clj:306 cljs.closure/eval10770[fn][39m
+[32m             closure.clj:412 cljs.closure/eval10821[fn][39m
+[32m             closure.clj:306 cljs.closure/eval10770[fn][39m
+[32m                 core.clj:18 clojurescript-build.core.CompilableSourcePaths/fn[39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[35m                core.clj:624 clojure.core/apply[39m
+[35m               core.clj:2586 clojure.core/mapcat[39m
+[36m             RestFn.java:423 clojure.lang.RestFn.invoke[39m
+[32m                 core.clj:18 clojurescript-build.core/clojurescript-build.core.CompilableSourcePaths[39m
+[32m            closure.clj:1018 cljs.closure/build[39m
+[32m                core.clj:150 clojurescript-build.core/build-source-paths*[39m
+[32m                 auto.clj:86 clojurescript-build.auto/warning[fn][39m
+[32m                 auto.clj:55 clojurescript-build.auto/time-build[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:71 clojurescript-build.auto/error[fn][39m
+[32m                 auto.clj:60 clojurescript-build.auto/before[fn][39m
+[32m                auto.clj:103 clojurescript-build.auto/make-conditional-builder[fn][39m
+[35m               core.clj:6353 clojure.core/mapv[fn][39m
+[36m          ArrayChunk.java:58 clojure.lang.ArrayChunk.reduce[39m
+[35m            protocols.clj:98 clojure.core.protocols/fn[39m
+[35m            protocols.clj:19 clojure.core.protocols/fn[fn][39m
+[35m            protocols.clj:31 clojure.core.protocols/seq-reduce[39m
+[35m            protocols.clj:60 clojure.core.protocols/fn[39m
+[35m            protocols.clj:13 clojure.core.protocols/fn[fn][39m
+[35m               core.clj:6289 clojure.core/reduce[39m
+[35m               core.clj:6353 clojure.core/mapv[39m
+[32m                auto.clj:180 clojurescript-build.auto/autobuild*[fn][39m
+[32m                auto.clj:176 clojurescript-build.auto/autobuild*[fn][39m
+[35m          ioc_macros.clj:940 clojure.core.async.impl.ioc-macros/run-state-machine[39m
+[35m          ioc_macros.clj:944 clojure.core.async.impl.ioc-macros/run-state-machine-wrapped[39m
+[35m               async.clj:362 clojure.core.async/ioc-alts![fn][39m
+[35m               async.clj:231 clojure.core.async/do-alts[fn][39m
+[35m            channels.clj:262 clojure.core.async.impl.channels.ManyToManyChannel/fn[39m
+[36m                 AFn.java:22 clojure.lang.AFn.run[39m
+[34mThreadPoolExecutor.java:1145 java.util.concurrent.ThreadPoolExecutor.runWorker[39m
+[34m ThreadPoolExecutor.java:615 java.util.concurrent.ThreadPoolExecutor$Worker.run[39m
+[34m             Thread.java:745 java.lang.Thread.run[39m
+[31mCaused by: [39m[31mclojure.lang.ExceptionInfo: [39m[31mWrong number of args (2) passed to: core/defcomponent at line 160 src/matter_cljs_fun/pong.cljs[39m
+[35m               core.clj:4403 clojure.core/ex-info[39m
+[32m            analyzer.clj:297 cljs.analyzer/error[39m
+[32m           analyzer.clj:1562 cljs.analyzer/macroexpand-1[39m
+[32m           analyzer.clj:1605 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m            compiler.clj:948 cljs.compiler/compile-file*[fn][39m
+[32m            compiler.clj:906 cljs.compiler/with-core-cljs[39m
+[32m            compiler.clj:927 cljs.compiler/compile-file*[39m
+[32m           compiler.clj:1033 cljs.compiler/compile-file[39m
+[31mCaused by: [39m[31mclojure.lang.ArityException: [39m[31mWrong number of args (2) passed to: core/defcomponent[39m
+[36m                AFn.java:429 clojure.lang.AFn.throwArity[39m
+[36m             RestFn.java:427 clojure.lang.RestFn.invoke[39m
+[36m                AFn.java:156 clojure.lang.AFn.applyToHelper[39m
+[36m             RestFn.java:132 clojure.lang.RestFn.applyTo[39m
+[36m           AFunction.java:29 clojure.lang.AFunction$1.doInvoke[39m
+[36m             RestFn.java:137 clojure.lang.RestFn.applyTo[39m
+[35m                core.clj:628 clojure.core/apply[39m
+[32m           analyzer.clj:1568 cljs.analyzer/macroexpand-1[39m
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+WARNING: Bad method signature in protocol implementation, om.core/IRender render does not declare arity 0 at line 160 src/matter_cljs_fun/pong.cljs
+[31mCompiling "resources/public/js/compiled/matter_cljs_fun.js" failed.[0m
+[31mclojure.lang.ExceptionInfo: [39m[31mfailed compiling file:src/matter_cljs_fun/pong.cljs[39m
+[35m               core.clj:4403 clojure.core/ex-info[39m
+[32m           compiler.clj:1039 cljs.compiler/compile-file[39m
+[32m           compiler.clj:1069 cljs.compiler/compile-root[39m
+[32m             closure.clj:358 cljs.closure/compile-dir[39m
+[32m             closure.clj:398 cljs.closure/eval10834[fn][39m
+[32m             closure.clj:306 cljs.closure/eval10770[fn][39m
+[32m             closure.clj:412 cljs.closure/eval10821[fn][39m
+[32m             closure.clj:306 cljs.closure/eval10770[fn][39m
+[32m                 core.clj:18 clojurescript-build.core.CompilableSourcePaths/fn[39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[35m                core.clj:624 clojure.core/apply[39m
+[35m               core.clj:2586 clojure.core/mapcat[39m
+[36m             RestFn.java:423 clojure.lang.RestFn.invoke[39m
+[32m                 core.clj:18 clojurescript-build.core/clojurescript-build.core.CompilableSourcePaths[39m
+[32m            closure.clj:1018 cljs.closure/build[39m
+[32m                core.clj:150 clojurescript-build.core/build-source-paths*[39m
+[32m                 auto.clj:86 clojurescript-build.auto/warning[fn][39m
+[32m                 auto.clj:55 clojurescript-build.auto/time-build[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:71 clojurescript-build.auto/error[fn][39m
+[32m                 auto.clj:60 clojurescript-build.auto/before[fn][39m
+[32m                auto.clj:103 clojurescript-build.auto/make-conditional-builder[fn][39m
+[35m               core.clj:6353 clojure.core/mapv[fn][39m
+[36m          ArrayChunk.java:58 clojure.lang.ArrayChunk.reduce[39m
+[35m            protocols.clj:98 clojure.core.protocols/fn[39m
+[35m            protocols.clj:19 clojure.core.protocols/fn[fn][39m
+[35m            protocols.clj:31 clojure.core.protocols/seq-reduce[39m
+[35m            protocols.clj:60 clojure.core.protocols/fn[39m
+[35m            protocols.clj:13 clojure.core.protocols/fn[fn][39m
+[35m               core.clj:6289 clojure.core/reduce[39m
+[35m               core.clj:6353 clojure.core/mapv[39m
+[32m                auto.clj:180 clojurescript-build.auto/autobuild*[fn][39m
+[32m                auto.clj:176 clojurescript-build.auto/autobuild*[fn][39m
+[35m          ioc_macros.clj:940 clojure.core.async.impl.ioc-macros/run-state-machine[39m
+[35m          ioc_macros.clj:944 clojure.core.async.impl.ioc-macros/run-state-machine-wrapped[39m
+[35m               async.clj:362 clojure.core.async/ioc-alts![fn][39m
+[35m               async.clj:231 clojure.core.async/do-alts[fn][39m
+[35m            channels.clj:262 clojure.core.async.impl.channels.ManyToManyChannel/fn[39m
+[36m                 AFn.java:22 clojure.lang.AFn.run[39m
+[34mThreadPoolExecutor.java:1145 java.util.concurrent.ThreadPoolExecutor.runWorker[39m
+[34m ThreadPoolExecutor.java:615 java.util.concurrent.ThreadPoolExecutor$Worker.run[39m
+[34m             Thread.java:745 java.lang.Thread.run[39m
+[31mCaused by: [39m[31mclojure.lang.ExceptionInfo: [39m[31m at line 160 src/matter_cljs_fun/pong.cljs[39m
+[35m               core.clj:4403 clojure.core/ex-info[39m
+[32m            analyzer.clj:297 cljs.analyzer/error[39m
+[32m           analyzer.clj:1607 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1351 cljs.analyzer/parse-type[39m
+[32m           analyzer.clj:1355 cljs.analyzer/eval1554[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[32m            analyzer.clj:909 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:912 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:566 cljs.analyzer/eval1190[fn][39m
+[32m            analyzer.clj:566 cljs.analyzer/eval1190[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[32m            analyzer.clj:909 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:912 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:970 cljs.analyzer/analyze-let[fn][39m
+[32m            analyzer.clj:966 cljs.analyzer/analyze-let[39m
+[32m            analyzer.clj:981 cljs.analyzer/eval1374[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:933 cljs.analyzer/analyze-let[fn][39m
+[32m            analyzer.clj:932 cljs.analyzer/analyze-let[fn][39m
+[32m            analyzer.clj:924 cljs.analyzer/analyze-let[39m
+[32m            analyzer.clj:977 cljs.analyzer/eval1370[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:913 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:970 cljs.analyzer/analyze-let[fn][39m
+[32m            analyzer.clj:966 cljs.analyzer/analyze-let[39m
+[32m            analyzer.clj:977 cljs.analyzer/eval1370[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:912 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:795 cljs.analyzer/analyze-fn-method[fn][39m
+[32m            analyzer.clj:794 cljs.analyzer/analyze-fn-method[39m
+[32m            analyzer.clj:825 cljs.analyzer/eval1303[fn][39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[35m               core.clj:2551 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[35m                core.clj:624 clojure.core/apply[39m
+[32m            analyzer.clj:826 cljs.analyzer/eval1303[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:700 cljs.analyzer/eval1261[fn][39m
+[32m            analyzer.clj:699 cljs.analyzer/eval1261[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[32m            analyzer.clj:909 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:970 cljs.analyzer/analyze-let[fn][39m
+[32m            analyzer.clj:966 cljs.analyzer/analyze-let[39m
+[32m            analyzer.clj:977 cljs.analyzer/eval1370[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[32m            analyzer.clj:909 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m            compiler.clj:948 cljs.compiler/compile-file*[fn][39m
+[32m            compiler.clj:906 cljs.compiler/with-core-cljs[39m
+[32m            compiler.clj:927 cljs.compiler/compile-file*[39m
+[32m           compiler.clj:1033 cljs.compiler/compile-file[39m
+[31mCaused by: [39m[31mjava.lang.NullPointerException: [39m[31m[39m
+[35m                core.clj:214 clojure.core/with-meta[39m
+[35m                core.clj:640 clojure.core/vary-meta[39m
+[36m             RestFn.java:464 clojure.lang.RestFn.invoke[39m
+[32m                core.clj:721 cljs.core/adapt-proto-params[39m
+[32m                core.clj:763 cljs.core/add-proto-methods*[fn][39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:56 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[35m                core.clj:694 clojure.core/concat[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m         ChunkedCons.java:59 clojure.lang.ChunkedCons.chunkedNext[39m
+[36m         ChunkedCons.java:43 clojure.lang.ChunkedCons.next[39m
+[36m                 RT.java:598 clojure.lang.RT.next[39m
+[35m                 core.clj:64 clojure.core/next[39m
+[35m                core.clj:262 clojure.core/butlast[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[32m            analyzer.clj:909 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+WARNING: Bad method signature in protocol implementation, om.core/IRender render does not declare arity 0 at line 160 src/matter_cljs_fun/pong.cljs
+[31mCompiling "resources/public/js/compiled/matter_cljs_fun.js" failed.[0m
+[31mclojure.lang.ExceptionInfo: [39m[31mfailed compiling file:src/matter_cljs_fun/pong.cljs[39m
+[35m               core.clj:4403 clojure.core/ex-info[39m
+[32m           compiler.clj:1039 cljs.compiler/compile-file[39m
+[32m           compiler.clj:1069 cljs.compiler/compile-root[39m
+[32m             closure.clj:358 cljs.closure/compile-dir[39m
+[32m             closure.clj:398 cljs.closure/eval10834[fn][39m
+[32m             closure.clj:306 cljs.closure/eval10770[fn][39m
+[32m             closure.clj:412 cljs.closure/eval10821[fn][39m
+[32m             closure.clj:306 cljs.closure/eval10770[fn][39m
+[32m                 core.clj:18 clojurescript-build.core.CompilableSourcePaths/fn[39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[35m                core.clj:624 clojure.core/apply[39m
+[35m               core.clj:2586 clojure.core/mapcat[39m
+[36m             RestFn.java:423 clojure.lang.RestFn.invoke[39m
+[32m                 core.clj:18 clojurescript-build.core/clojurescript-build.core.CompilableSourcePaths[39m
+[32m            closure.clj:1018 cljs.closure/build[39m
+[32m                core.clj:150 clojurescript-build.core/build-source-paths*[39m
+[32m                 auto.clj:86 clojurescript-build.auto/warning[fn][39m
+[32m                 auto.clj:55 clojurescript-build.auto/time-build[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:71 clojurescript-build.auto/error[fn][39m
+[32m                 auto.clj:60 clojurescript-build.auto/before[fn][39m
+[32m                auto.clj:103 clojurescript-build.auto/make-conditional-builder[fn][39m
+[35m               core.clj:6353 clojure.core/mapv[fn][39m
+[36m          ArrayChunk.java:58 clojure.lang.ArrayChunk.reduce[39m
+[35m            protocols.clj:98 clojure.core.protocols/fn[39m
+[35m            protocols.clj:19 clojure.core.protocols/fn[fn][39m
+[35m            protocols.clj:31 clojure.core.protocols/seq-reduce[39m
+[35m            protocols.clj:60 clojure.core.protocols/fn[39m
+[35m            protocols.clj:13 clojure.core.protocols/fn[fn][39m
+[35m               core.clj:6289 clojure.core/reduce[39m
+[35m               core.clj:6353 clojure.core/mapv[39m
+[32m                auto.clj:180 clojurescript-build.auto/autobuild*[fn][39m
+[32m                auto.clj:176 clojurescript-build.auto/autobuild*[fn][39m
+[35m          ioc_macros.clj:940 clojure.core.async.impl.ioc-macros/run-state-machine[39m
+[35m          ioc_macros.clj:944 clojure.core.async.impl.ioc-macros/run-state-machine-wrapped[39m
+[35m               async.clj:362 clojure.core.async/ioc-alts![fn][39m
+[35m               async.clj:231 clojure.core.async/do-alts[fn][39m
+[35m            channels.clj:262 clojure.core.async.impl.channels.ManyToManyChannel/fn[39m
+[36m                 AFn.java:22 clojure.lang.AFn.run[39m
+[34mThreadPoolExecutor.java:1145 java.util.concurrent.ThreadPoolExecutor.runWorker[39m
+[34m ThreadPoolExecutor.java:615 java.util.concurrent.ThreadPoolExecutor$Worker.run[39m
+[34m             Thread.java:745 java.lang.Thread.run[39m
+[31mCaused by: [39m[31mclojure.lang.ExceptionInfo: [39m[31m at line 160 src/matter_cljs_fun/pong.cljs[39m
+[35m               core.clj:4403 clojure.core/ex-info[39m
+[32m            analyzer.clj:297 cljs.analyzer/error[39m
+[32m           analyzer.clj:1607 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1351 cljs.analyzer/parse-type[39m
+[32m           analyzer.clj:1355 cljs.analyzer/eval1554[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[32m            analyzer.clj:909 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:912 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:566 cljs.analyzer/eval1190[fn][39m
+[32m            analyzer.clj:566 cljs.analyzer/eval1190[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[32m            analyzer.clj:909 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:912 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:970 cljs.analyzer/analyze-let[fn][39m
+[32m            analyzer.clj:966 cljs.analyzer/analyze-let[39m
+[32m            analyzer.clj:981 cljs.analyzer/eval1374[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:933 cljs.analyzer/analyze-let[fn][39m
+[32m            analyzer.clj:932 cljs.analyzer/analyze-let[fn][39m
+[32m            analyzer.clj:924 cljs.analyzer/analyze-let[39m
+[32m            analyzer.clj:977 cljs.analyzer/eval1370[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:913 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:970 cljs.analyzer/analyze-let[fn][39m
+[32m            analyzer.clj:966 cljs.analyzer/analyze-let[39m
+[32m            analyzer.clj:977 cljs.analyzer/eval1370[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:912 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:795 cljs.analyzer/analyze-fn-method[fn][39m
+[32m            analyzer.clj:794 cljs.analyzer/analyze-fn-method[39m
+[32m            analyzer.clj:825 cljs.analyzer/eval1303[fn][39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[35m               core.clj:2551 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[35m                core.clj:624 clojure.core/apply[39m
+[32m            analyzer.clj:826 cljs.analyzer/eval1303[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:700 cljs.analyzer/eval1261[fn][39m
+[32m            analyzer.clj:699 cljs.analyzer/eval1261[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[32m            analyzer.clj:909 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:970 cljs.analyzer/analyze-let[fn][39m
+[32m            analyzer.clj:966 cljs.analyzer/analyze-let[39m
+[32m            analyzer.clj:977 cljs.analyzer/eval1370[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[32m            analyzer.clj:909 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m            compiler.clj:948 cljs.compiler/compile-file*[fn][39m
+[32m            compiler.clj:906 cljs.compiler/with-core-cljs[39m
+[32m            compiler.clj:927 cljs.compiler/compile-file*[39m
+[32m           compiler.clj:1033 cljs.compiler/compile-file[39m
+[31mCaused by: [39m[31mjava.lang.NullPointerException: [39m[31m[39m
+[35m                core.clj:214 clojure.core/with-meta[39m
+[35m                core.clj:640 clojure.core/vary-meta[39m
+[36m             RestFn.java:464 clojure.lang.RestFn.invoke[39m
+[32m                core.clj:721 cljs.core/adapt-proto-params[39m
+[32m                core.clj:763 cljs.core/add-proto-methods*[fn][39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:56 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[35m                core.clj:694 clojure.core/concat[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m         ChunkedCons.java:59 clojure.lang.ChunkedCons.chunkedNext[39m
+[36m         ChunkedCons.java:43 clojure.lang.ChunkedCons.next[39m
+[36m                 RT.java:598 clojure.lang.RT.next[39m
+[35m                 core.clj:64 clojure.core/next[39m
+[35m                core.clj:262 clojure.core/butlast[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[32m            analyzer.clj:909 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+WARNING: Bad method signature in protocol implementation, om.core/IRender render does not declare arity 0 at line 160 src/matter_cljs_fun/pong.cljs
+[31mCompiling "resources/public/js/compiled/matter_cljs_fun.js" failed.[0m
+[31mclojure.lang.ExceptionInfo: [39m[31mfailed compiling file:src/matter_cljs_fun/pong.cljs[39m
+[35m               core.clj:4403 clojure.core/ex-info[39m
+[32m           compiler.clj:1039 cljs.compiler/compile-file[39m
+[32m           compiler.clj:1069 cljs.compiler/compile-root[39m
+[32m             closure.clj:358 cljs.closure/compile-dir[39m
+[32m             closure.clj:398 cljs.closure/eval10834[fn][39m
+[32m             closure.clj:306 cljs.closure/eval10770[fn][39m
+[32m             closure.clj:412 cljs.closure/eval10821[fn][39m
+[32m             closure.clj:306 cljs.closure/eval10770[fn][39m
+[32m                 core.clj:18 clojurescript-build.core.CompilableSourcePaths/fn[39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[35m                core.clj:624 clojure.core/apply[39m
+[35m               core.clj:2586 clojure.core/mapcat[39m
+[36m             RestFn.java:423 clojure.lang.RestFn.invoke[39m
+[32m                 core.clj:18 clojurescript-build.core/clojurescript-build.core.CompilableSourcePaths[39m
+[32m            closure.clj:1018 cljs.closure/build[39m
+[32m                core.clj:150 clojurescript-build.core/build-source-paths*[39m
+[32m                 auto.clj:86 clojurescript-build.auto/warning[fn][39m
+[32m                 auto.clj:55 clojurescript-build.auto/time-build[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:71 clojurescript-build.auto/error[fn][39m
+[32m                 auto.clj:60 clojurescript-build.auto/before[fn][39m
+[32m                auto.clj:103 clojurescript-build.auto/make-conditional-builder[fn][39m
+[35m               core.clj:6353 clojure.core/mapv[fn][39m
+[36m          ArrayChunk.java:58 clojure.lang.ArrayChunk.reduce[39m
+[35m            protocols.clj:98 clojure.core.protocols/fn[39m
+[35m            protocols.clj:19 clojure.core.protocols/fn[fn][39m
+[35m            protocols.clj:31 clojure.core.protocols/seq-reduce[39m
+[35m            protocols.clj:60 clojure.core.protocols/fn[39m
+[35m            protocols.clj:13 clojure.core.protocols/fn[fn][39m
+[35m               core.clj:6289 clojure.core/reduce[39m
+[35m               core.clj:6353 clojure.core/mapv[39m
+[32m                auto.clj:180 clojurescript-build.auto/autobuild*[fn][39m
+[32m                auto.clj:176 clojurescript-build.auto/autobuild*[fn][39m
+[35m          ioc_macros.clj:940 clojure.core.async.impl.ioc-macros/run-state-machine[39m
+[35m          ioc_macros.clj:944 clojure.core.async.impl.ioc-macros/run-state-machine-wrapped[39m
+[35m               async.clj:362 clojure.core.async/ioc-alts![fn][39m
+[35m               async.clj:231 clojure.core.async/do-alts[fn][39m
+[35m            channels.clj:262 clojure.core.async.impl.channels.ManyToManyChannel/fn[39m
+[36m                 AFn.java:22 clojure.lang.AFn.run[39m
+[34mThreadPoolExecutor.java:1145 java.util.concurrent.ThreadPoolExecutor.runWorker[39m
+[34m ThreadPoolExecutor.java:615 java.util.concurrent.ThreadPoolExecutor$Worker.run[39m
+[34m             Thread.java:745 java.lang.Thread.run[39m
+[31mCaused by: [39m[31mclojure.lang.ExceptionInfo: [39m[31m at line 160 src/matter_cljs_fun/pong.cljs[39m
+[35m               core.clj:4403 clojure.core/ex-info[39m
+[32m            analyzer.clj:297 cljs.analyzer/error[39m
+[32m           analyzer.clj:1607 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1351 cljs.analyzer/parse-type[39m
+[32m           analyzer.clj:1355 cljs.analyzer/eval1554[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[32m            analyzer.clj:909 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:912 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:566 cljs.analyzer/eval1190[fn][39m
+[32m            analyzer.clj:566 cljs.analyzer/eval1190[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[32m            analyzer.clj:909 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:912 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:970 cljs.analyzer/analyze-let[fn][39m
+[32m            analyzer.clj:966 cljs.analyzer/analyze-let[39m
+[32m            analyzer.clj:981 cljs.analyzer/eval1374[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:933 cljs.analyzer/analyze-let[fn][39m
+[32m            analyzer.clj:932 cljs.analyzer/analyze-let[fn][39m
+[32m            analyzer.clj:924 cljs.analyzer/analyze-let[39m
+[32m            analyzer.clj:977 cljs.analyzer/eval1370[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:913 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:970 cljs.analyzer/analyze-let[fn][39m
+[32m            analyzer.clj:966 cljs.analyzer/analyze-let[39m
+[32m            analyzer.clj:977 cljs.analyzer/eval1370[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:912 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:795 cljs.analyzer/analyze-fn-method[fn][39m
+[32m            analyzer.clj:794 cljs.analyzer/analyze-fn-method[39m
+[32m            analyzer.clj:825 cljs.analyzer/eval1303[fn][39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[35m               core.clj:2551 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[35m                core.clj:624 clojure.core/apply[39m
+[32m            analyzer.clj:826 cljs.analyzer/eval1303[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:700 cljs.analyzer/eval1261[fn][39m
+[32m            analyzer.clj:699 cljs.analyzer/eval1261[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[32m            analyzer.clj:909 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:970 cljs.analyzer/analyze-let[fn][39m
+[32m            analyzer.clj:966 cljs.analyzer/analyze-let[39m
+[32m            analyzer.clj:977 cljs.analyzer/eval1370[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[32m            analyzer.clj:909 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m            compiler.clj:948 cljs.compiler/compile-file*[fn][39m
+[32m            compiler.clj:906 cljs.compiler/with-core-cljs[39m
+[32m            compiler.clj:927 cljs.compiler/compile-file*[39m
+[32m           compiler.clj:1033 cljs.compiler/compile-file[39m
+[31mCaused by: [39m[31mjava.lang.NullPointerException: [39m[31m[39m
+[35m                core.clj:214 clojure.core/with-meta[39m
+[35m                core.clj:640 clojure.core/vary-meta[39m
+[36m             RestFn.java:464 clojure.lang.RestFn.invoke[39m
+[32m                core.clj:721 cljs.core/adapt-proto-params[39m
+[32m                core.clj:763 cljs.core/add-proto-methods*[fn][39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:56 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[35m                core.clj:694 clojure.core/concat[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m         ChunkedCons.java:59 clojure.lang.ChunkedCons.chunkedNext[39m
+[36m         ChunkedCons.java:43 clojure.lang.ChunkedCons.next[39m
+[36m                 RT.java:598 clojure.lang.RT.next[39m
+[35m                 core.clj:64 clojure.core/next[39m
+[35m                core.clj:262 clojure.core/butlast[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[32m            analyzer.clj:909 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+WARNING: Bad method signature in protocol implementation, om.core/IRender render does not declare arity 0 at line 159 src/matter_cljs_fun/pong.cljs
+[31mCompiling "resources/public/js/compiled/matter_cljs_fun.js" failed.[0m
+[31mclojure.lang.ExceptionInfo: [39m[31mfailed compiling file:src/matter_cljs_fun/pong.cljs[39m
+[35m               core.clj:4403 clojure.core/ex-info[39m
+[32m           compiler.clj:1039 cljs.compiler/compile-file[39m
+[32m           compiler.clj:1069 cljs.compiler/compile-root[39m
+[32m             closure.clj:358 cljs.closure/compile-dir[39m
+[32m             closure.clj:398 cljs.closure/eval10834[fn][39m
+[32m             closure.clj:306 cljs.closure/eval10770[fn][39m
+[32m             closure.clj:412 cljs.closure/eval10821[fn][39m
+[32m             closure.clj:306 cljs.closure/eval10770[fn][39m
+[32m                 core.clj:18 clojurescript-build.core.CompilableSourcePaths/fn[39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[35m                core.clj:624 clojure.core/apply[39m
+[35m               core.clj:2586 clojure.core/mapcat[39m
+[36m             RestFn.java:423 clojure.lang.RestFn.invoke[39m
+[32m                 core.clj:18 clojurescript-build.core/clojurescript-build.core.CompilableSourcePaths[39m
+[32m            closure.clj:1018 cljs.closure/build[39m
+[32m                core.clj:150 clojurescript-build.core/build-source-paths*[39m
+[32m                 auto.clj:86 clojurescript-build.auto/warning[fn][39m
+[32m                 auto.clj:55 clojurescript-build.auto/time-build[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:71 clojurescript-build.auto/error[fn][39m
+[32m                 auto.clj:60 clojurescript-build.auto/before[fn][39m
+[32m                auto.clj:103 clojurescript-build.auto/make-conditional-builder[fn][39m
+[35m               core.clj:6353 clojure.core/mapv[fn][39m
+[36m          ArrayChunk.java:58 clojure.lang.ArrayChunk.reduce[39m
+[35m            protocols.clj:98 clojure.core.protocols/fn[39m
+[35m            protocols.clj:19 clojure.core.protocols/fn[fn][39m
+[35m            protocols.clj:31 clojure.core.protocols/seq-reduce[39m
+[35m            protocols.clj:60 clojure.core.protocols/fn[39m
+[35m            protocols.clj:13 clojure.core.protocols/fn[fn][39m
+[35m               core.clj:6289 clojure.core/reduce[39m
+[35m               core.clj:6353 clojure.core/mapv[39m
+[32m                auto.clj:180 clojurescript-build.auto/autobuild*[fn][39m
+[32m                auto.clj:176 clojurescript-build.auto/autobuild*[fn][39m
+[35m          ioc_macros.clj:940 clojure.core.async.impl.ioc-macros/run-state-machine[39m
+[35m          ioc_macros.clj:944 clojure.core.async.impl.ioc-macros/run-state-machine-wrapped[39m
+[35m               async.clj:362 clojure.core.async/ioc-alts![fn][39m
+[35m               async.clj:231 clojure.core.async/do-alts[fn][39m
+[35m            channels.clj:262 clojure.core.async.impl.channels.ManyToManyChannel/fn[39m
+[36m                 AFn.java:22 clojure.lang.AFn.run[39m
+[34mThreadPoolExecutor.java:1145 java.util.concurrent.ThreadPoolExecutor.runWorker[39m
+[34m ThreadPoolExecutor.java:615 java.util.concurrent.ThreadPoolExecutor$Worker.run[39m
+[34m             Thread.java:745 java.lang.Thread.run[39m
+[31mCaused by: [39m[31mclojure.lang.ExceptionInfo: [39m[31m at line 159 src/matter_cljs_fun/pong.cljs[39m
+[35m               core.clj:4403 clojure.core/ex-info[39m
+[32m            analyzer.clj:297 cljs.analyzer/error[39m
+[32m           analyzer.clj:1607 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1351 cljs.analyzer/parse-type[39m
+[32m           analyzer.clj:1355 cljs.analyzer/eval1554[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[32m            analyzer.clj:909 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:912 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:566 cljs.analyzer/eval1190[fn][39m
+[32m            analyzer.clj:566 cljs.analyzer/eval1190[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[32m            analyzer.clj:909 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:912 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:970 cljs.analyzer/analyze-let[fn][39m
+[32m            analyzer.clj:966 cljs.analyzer/analyze-let[39m
+[32m            analyzer.clj:981 cljs.analyzer/eval1374[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:933 cljs.analyzer/analyze-let[fn][39m
+[32m            analyzer.clj:932 cljs.analyzer/analyze-let[fn][39m
+[32m            analyzer.clj:924 cljs.analyzer/analyze-let[39m
+[32m            analyzer.clj:977 cljs.analyzer/eval1370[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:913 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:970 cljs.analyzer/analyze-let[fn][39m
+[32m            analyzer.clj:966 cljs.analyzer/analyze-let[39m
+[32m            analyzer.clj:977 cljs.analyzer/eval1370[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:912 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:795 cljs.analyzer/analyze-fn-method[fn][39m
+[32m            analyzer.clj:794 cljs.analyzer/analyze-fn-method[39m
+[32m            analyzer.clj:825 cljs.analyzer/eval1303[fn][39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[35m               core.clj:2551 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[35m                core.clj:624 clojure.core/apply[39m
+[32m            analyzer.clj:826 cljs.analyzer/eval1303[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:700 cljs.analyzer/eval1261[fn][39m
+[32m            analyzer.clj:699 cljs.analyzer/eval1261[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[32m            analyzer.clj:909 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:970 cljs.analyzer/analyze-let[fn][39m
+[32m            analyzer.clj:966 cljs.analyzer/analyze-let[39m
+[32m            analyzer.clj:977 cljs.analyzer/eval1370[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[32m            analyzer.clj:909 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m            compiler.clj:948 cljs.compiler/compile-file*[fn][39m
+[32m            compiler.clj:906 cljs.compiler/with-core-cljs[39m
+[32m            compiler.clj:927 cljs.compiler/compile-file*[39m
+[32m           compiler.clj:1033 cljs.compiler/compile-file[39m
+[31mCaused by: [39m[31mjava.lang.NullPointerException: [39m[31m[39m
+[35m                core.clj:214 clojure.core/with-meta[39m
+[35m                core.clj:640 clojure.core/vary-meta[39m
+[36m             RestFn.java:464 clojure.lang.RestFn.invoke[39m
+[32m                core.clj:721 cljs.core/adapt-proto-params[39m
+[32m                core.clj:763 cljs.core/add-proto-methods*[fn][39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:56 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[35m                core.clj:694 clojure.core/concat[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m         ChunkedCons.java:59 clojure.lang.ChunkedCons.chunkedNext[39m
+[36m         ChunkedCons.java:43 clojure.lang.ChunkedCons.next[39m
+[36m                 RT.java:598 clojure.lang.RT.next[39m
+[35m                 core.clj:64 clojure.core/next[39m
+[35m                core.clj:262 clojure.core/butlast[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[32m            analyzer.clj:909 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+WARNING: Bad method signature in protocol implementation, om.core/IRender render does not declare arity 0 at line 159 src/matter_cljs_fun/pong.cljs
+[31mCompiling "resources/public/js/compiled/matter_cljs_fun.js" failed.[0m
+[31mclojure.lang.ExceptionInfo: [39m[31mfailed compiling file:src/matter_cljs_fun/pong.cljs[39m
+[35m               core.clj:4403 clojure.core/ex-info[39m
+[32m           compiler.clj:1039 cljs.compiler/compile-file[39m
+[32m           compiler.clj:1069 cljs.compiler/compile-root[39m
+[32m             closure.clj:358 cljs.closure/compile-dir[39m
+[32m             closure.clj:398 cljs.closure/eval10834[fn][39m
+[32m             closure.clj:306 cljs.closure/eval10770[fn][39m
+[32m             closure.clj:412 cljs.closure/eval10821[fn][39m
+[32m             closure.clj:306 cljs.closure/eval10770[fn][39m
+[32m                 core.clj:18 clojurescript-build.core.CompilableSourcePaths/fn[39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[35m                core.clj:624 clojure.core/apply[39m
+[35m               core.clj:2586 clojure.core/mapcat[39m
+[36m             RestFn.java:423 clojure.lang.RestFn.invoke[39m
+[32m                 core.clj:18 clojurescript-build.core/clojurescript-build.core.CompilableSourcePaths[39m
+[32m            closure.clj:1018 cljs.closure/build[39m
+[32m                core.clj:150 clojurescript-build.core/build-source-paths*[39m
+[32m                 auto.clj:86 clojurescript-build.auto/warning[fn][39m
+[32m                 auto.clj:55 clojurescript-build.auto/time-build[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:71 clojurescript-build.auto/error[fn][39m
+[32m                 auto.clj:60 clojurescript-build.auto/before[fn][39m
+[32m                auto.clj:103 clojurescript-build.auto/make-conditional-builder[fn][39m
+[35m               core.clj:6353 clojure.core/mapv[fn][39m
+[36m          ArrayChunk.java:58 clojure.lang.ArrayChunk.reduce[39m
+[35m            protocols.clj:98 clojure.core.protocols/fn[39m
+[35m            protocols.clj:19 clojure.core.protocols/fn[fn][39m
+[35m            protocols.clj:31 clojure.core.protocols/seq-reduce[39m
+[35m            protocols.clj:60 clojure.core.protocols/fn[39m
+[35m            protocols.clj:13 clojure.core.protocols/fn[fn][39m
+[35m               core.clj:6289 clojure.core/reduce[39m
+[35m               core.clj:6353 clojure.core/mapv[39m
+[32m                auto.clj:180 clojurescript-build.auto/autobuild*[fn][39m
+[32m                auto.clj:176 clojurescript-build.auto/autobuild*[fn][39m
+[35m          ioc_macros.clj:940 clojure.core.async.impl.ioc-macros/run-state-machine[39m
+[35m          ioc_macros.clj:944 clojure.core.async.impl.ioc-macros/run-state-machine-wrapped[39m
+[35m               async.clj:362 clojure.core.async/ioc-alts![fn][39m
+[35m               async.clj:231 clojure.core.async/do-alts[fn][39m
+[35m            channels.clj:262 clojure.core.async.impl.channels.ManyToManyChannel/fn[39m
+[36m                 AFn.java:22 clojure.lang.AFn.run[39m
+[34mThreadPoolExecutor.java:1145 java.util.concurrent.ThreadPoolExecutor.runWorker[39m
+[34m ThreadPoolExecutor.java:615 java.util.concurrent.ThreadPoolExecutor$Worker.run[39m
+[34m             Thread.java:745 java.lang.Thread.run[39m
+[31mCaused by: [39m[31mclojure.lang.ExceptionInfo: [39m[31m at line 159 src/matter_cljs_fun/pong.cljs[39m
+[35m               core.clj:4403 clojure.core/ex-info[39m
+[32m            analyzer.clj:297 cljs.analyzer/error[39m
+[32m           analyzer.clj:1607 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1351 cljs.analyzer/parse-type[39m
+[32m           analyzer.clj:1355 cljs.analyzer/eval1554[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[32m            analyzer.clj:909 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:912 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:566 cljs.analyzer/eval1190[fn][39m
+[32m            analyzer.clj:566 cljs.analyzer/eval1190[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[32m            analyzer.clj:909 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:912 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:970 cljs.analyzer/analyze-let[fn][39m
+[32m            analyzer.clj:966 cljs.analyzer/analyze-let[39m
+[32m            analyzer.clj:981 cljs.analyzer/eval1374[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:933 cljs.analyzer/analyze-let[fn][39m
+[32m            analyzer.clj:932 cljs.analyzer/analyze-let[fn][39m
+[32m            analyzer.clj:924 cljs.analyzer/analyze-let[39m
+[32m            analyzer.clj:977 cljs.analyzer/eval1370[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:913 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:970 cljs.analyzer/analyze-let[fn][39m
+[32m            analyzer.clj:966 cljs.analyzer/analyze-let[39m
+[32m            analyzer.clj:977 cljs.analyzer/eval1370[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:912 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:795 cljs.analyzer/analyze-fn-method[fn][39m
+[32m            analyzer.clj:794 cljs.analyzer/analyze-fn-method[39m
+[32m            analyzer.clj:825 cljs.analyzer/eval1303[fn][39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[35m               core.clj:2551 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[35m                core.clj:624 clojure.core/apply[39m
+[32m            analyzer.clj:826 cljs.analyzer/eval1303[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:700 cljs.analyzer/eval1261[fn][39m
+[32m            analyzer.clj:699 cljs.analyzer/eval1261[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[32m            analyzer.clj:909 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:970 cljs.analyzer/analyze-let[fn][39m
+[32m            analyzer.clj:966 cljs.analyzer/analyze-let[39m
+[32m            analyzer.clj:977 cljs.analyzer/eval1370[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1684 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1683 cljs.analyzer/analyze[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[32m            analyzer.clj:909 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m           analyzer.clj:1611 cljs.analyzer/analyze-seq[39m
+[32m           analyzer.clj:1696 cljs.analyzer/analyze[fn][39m
+[32m           analyzer.clj:1689 cljs.analyzer/analyze[39m
+[32m            compiler.clj:948 cljs.compiler/compile-file*[fn][39m
+[32m            compiler.clj:906 cljs.compiler/with-core-cljs[39m
+[32m            compiler.clj:927 cljs.compiler/compile-file*[39m
+[32m           compiler.clj:1033 cljs.compiler/compile-file[39m
+[31mCaused by: [39m[31mjava.lang.NullPointerException: [39m[31m[39m
+[35m                core.clj:214 clojure.core/with-meta[39m
+[35m                core.clj:640 clojure.core/vary-meta[39m
+[36m             RestFn.java:464 clojure.lang.RestFn.invoke[39m
+[32m                core.clj:721 cljs.core/adapt-proto-params[39m
+[32m                core.clj:763 cljs.core/add-proto-methods*[fn][39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:56 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[35m                core.clj:694 clojure.core/concat[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m         ChunkedCons.java:59 clojure.lang.ChunkedCons.chunkedNext[39m
+[36m         ChunkedCons.java:43 clojure.lang.ChunkedCons.next[39m
+[36m                 RT.java:598 clojure.lang.RT.next[39m
+[35m                 core.clj:64 clojure.core/next[39m
+[35m                core.clj:262 clojure.core/butlast[39m
+[32m            analyzer.clj:910 cljs.analyzer/eval1344[fn][39m
+[32m            analyzer.clj:909 cljs.analyzer/eval1344[fn][39m
+[36m            MultiFn.java:249 clojure.lang.MultiFn.invoke[39m
+[32m           analyzer.clj:1609 cljs.analyzer/analyze-seq[39m
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+WARNING: Use of undeclared Var matter-cljs-fun.pong/initialize at line 159 src/matter_cljs_fun/pong.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 7.223 seconds.[0m
+notifying browser that file changed:  /js/compiled/matter_cljs_fun.js
+notifying browser that file changed:  /js/compiled/out/goog/deps.js
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.279 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+WARNING: Bad method signature in protocol implementation, om.core/IRender render does not declare arity 0 at line 159 src/matter_cljs_fun/pong.cljs
+[31mCompiling "resources/public/js/compiled/matter_cljs_fun.js" failed.[0m
+Figwheel: focusing on build-ids (dev)
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.162 seconds.[0m
+notifying browser that file changed:  /js/compiled/matter_cljs_fun.js
+notifying browser that file changed:  /js/compiled/out/goog/deps.js
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/plinko.js
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/util.js
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+WARNING: No such namespace: dom at line 156 src/matter_cljs_fun/pong.cljs
+WARNING: Use of undeclared Var dom/input at line 156 src/matter_cljs_fun/pong.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 1.311 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.677 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 1.034 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+WARNING: Use of undeclared Var matter-cljs-fun.pong/by-id at line 169 src/matter_cljs_fun/pong.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 1.279 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.93 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.983 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.968 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.507 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.861 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.832 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.767 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.773 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 1.053 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+WARNING: Wrong number of args (4) passed to cljs.core/add-watch at line 182 src/matter_cljs_fun/pong.cljs
+WARNING: Use of undeclared Var matter-cljs-fun.pong/fn at line 182 src/matter_cljs_fun/pong.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.434 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.441 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.371 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.784 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+WARNING: Use of undeclared Var matter-cljs-fun.pong/variable-controls at line 171 src/matter_cljs_fun/pong.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 1.087 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+WARNING: Use of undeclared Var matter-cljs-fun.pong/variable-controls at line 171 src/matter_cljs_fun/pong.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.788 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.661 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.95 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.2 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+WARNING: Use of undeclared Var matter-cljs-fun.pong/variable-controls-state at line 182 src/matter_cljs_fun/pong.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.769 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+WARNING: Use of undeclared Var matter-cljs-fun.pong/variable-controls-state at line 182 src/matter_cljs_fun/pong.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.679 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.671 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.622 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.707 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.662 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.592 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.672 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.649 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/matter_cljs_fun.js" failed.[0m
+[31mclojure.lang.ExceptionInfo: [39m[31mfailed compiling file:src/matter_cljs_fun/pong.cljs[39m
+[35m               core.clj:4403 clojure.core/ex-info[39m
+[32m           compiler.clj:1039 cljs.compiler/compile-file[39m
+[32m           compiler.clj:1069 cljs.compiler/compile-root[39m
+[32m             closure.clj:358 cljs.closure/compile-dir[39m
+[32m             closure.clj:398 cljs.closure/eval10834[fn][39m
+[32m             closure.clj:306 cljs.closure/eval10770[fn][39m
+[32m             closure.clj:412 cljs.closure/eval10821[fn][39m
+[32m             closure.clj:306 cljs.closure/eval10770[fn][39m
+[32m                 core.clj:18 clojurescript-build.core.CompilableSourcePaths/fn[39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[35m                core.clj:624 clojure.core/apply[39m
+[35m               core.clj:2586 clojure.core/mapcat[39m
+[36m             RestFn.java:423 clojure.lang.RestFn.invoke[39m
+[32m                 core.clj:18 clojurescript-build.core/clojurescript-build.core.CompilableSourcePaths[39m
+[32m            closure.clj:1018 cljs.closure/build[39m
+[32m                core.clj:150 clojurescript-build.core/build-source-paths*[39m
+[32m                 auto.clj:86 clojurescript-build.auto/warning[fn][39m
+[32m                 auto.clj:55 clojurescript-build.auto/time-build[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:71 clojurescript-build.auto/error[fn][39m
+[32m                 auto.clj:60 clojurescript-build.auto/before[fn][39m
+[32m                auto.clj:103 clojurescript-build.auto/make-conditional-builder[fn][39m
+[35m               core.clj:6353 clojure.core/mapv[fn][39m
+[36m          ArrayChunk.java:58 clojure.lang.ArrayChunk.reduce[39m
+[35m            protocols.clj:98 clojure.core.protocols/fn[39m
+[35m            protocols.clj:19 clojure.core.protocols/fn[fn][39m
+[35m            protocols.clj:31 clojure.core.protocols/seq-reduce[39m
+[35m            protocols.clj:60 clojure.core.protocols/fn[39m
+[35m            protocols.clj:13 clojure.core.protocols/fn[fn][39m
+[35m               core.clj:6289 clojure.core/reduce[39m
+[35m               core.clj:6353 clojure.core/mapv[39m
+[32m                auto.clj:180 clojurescript-build.auto/autobuild*[fn][39m
+[32m                auto.clj:176 clojurescript-build.auto/autobuild*[fn][39m
+[35m          ioc_macros.clj:940 clojure.core.async.impl.ioc-macros/run-state-machine[39m
+[35m          ioc_macros.clj:944 clojure.core.async.impl.ioc-macros/run-state-machine-wrapped[39m
+[35m               async.clj:362 clojure.core.async/ioc-alts![fn][39m
+[35m               async.clj:231 clojure.core.async/do-alts[fn][39m
+[35m            channels.clj:262 clojure.core.async.impl.channels.ManyToManyChannel/fn[39m
+[36m                 AFn.java:22 clojure.lang.AFn.run[39m
+[34mThreadPoolExecutor.java:1145 java.util.concurrent.ThreadPoolExecutor.runWorker[39m
+[34m ThreadPoolExecutor.java:615 java.util.concurrent.ThreadPoolExecutor$Worker.run[39m
+[34m             Thread.java:745 java.lang.Thread.run[39m
+[31mCaused by: [39m[31mclojure.lang.ExceptionInfo: [39m[31mEOF while reading, starting at line 167[39m
+[35m               core.clj:4403 clojure.core/ex-info[39m
+[35m        reader_types.clj:336 clojure.tools.reader.reader-types/reader-error[39m
+[36m             RestFn.java:439 clojure.lang.RestFn.invoke[39m
+[35m              reader.clj:167 clojure.tools.reader/read-delimited[39m
+[35m              reader.clj:173 clojure.tools.reader/read-list[39m
+[35m              reader.clj:747 clojure.tools.reader/read[39m
+[35m              reader.clj:732 clojure.tools.reader/read[39m
+[32m           analyzer.clj:1742 cljs.analyzer/forms-seq[fn][39m
+[32m           analyzer.clj:1736 cljs.analyzer/forms-seq[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[32m            compiler.clj:946 cljs.compiler/compile-file*[fn][39m
+[32m            compiler.clj:906 cljs.compiler/with-core-cljs[39m
+[32m            compiler.clj:927 cljs.compiler/compile-file*[39m
+[32m           compiler.clj:1033 cljs.compiler/compile-file[39m
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.584 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.636 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/matter_cljs_fun.js" failed.[0m
+[31mclojure.lang.ExceptionInfo: [39m[31mfailed compiling file:src/matter_cljs_fun/pong.cljs[39m
+[35m               core.clj:4403 clojure.core/ex-info[39m
+[32m           compiler.clj:1039 cljs.compiler/compile-file[39m
+[32m           compiler.clj:1069 cljs.compiler/compile-root[39m
+[32m             closure.clj:358 cljs.closure/compile-dir[39m
+[32m             closure.clj:398 cljs.closure/eval10834[fn][39m
+[32m             closure.clj:306 cljs.closure/eval10770[fn][39m
+[32m             closure.clj:412 cljs.closure/eval10821[fn][39m
+[32m             closure.clj:306 cljs.closure/eval10770[fn][39m
+[32m                 core.clj:18 clojurescript-build.core.CompilableSourcePaths/fn[39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[35m                core.clj:624 clojure.core/apply[39m
+[35m               core.clj:2586 clojure.core/mapcat[39m
+[36m             RestFn.java:423 clojure.lang.RestFn.invoke[39m
+[32m                 core.clj:18 clojurescript-build.core/clojurescript-build.core.CompilableSourcePaths[39m
+[32m            closure.clj:1018 cljs.closure/build[39m
+[32m                core.clj:150 clojurescript-build.core/build-source-paths*[39m
+[32m                 auto.clj:86 clojurescript-build.auto/warning[fn][39m
+[32m                 auto.clj:55 clojurescript-build.auto/time-build[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:71 clojurescript-build.auto/error[fn][39m
+[32m                 auto.clj:60 clojurescript-build.auto/before[fn][39m
+[32m                auto.clj:103 clojurescript-build.auto/make-conditional-builder[fn][39m
+[35m               core.clj:6353 clojure.core/mapv[fn][39m
+[36m          ArrayChunk.java:58 clojure.lang.ArrayChunk.reduce[39m
+[35m            protocols.clj:98 clojure.core.protocols/fn[39m
+[35m            protocols.clj:19 clojure.core.protocols/fn[fn][39m
+[35m            protocols.clj:31 clojure.core.protocols/seq-reduce[39m
+[35m            protocols.clj:60 clojure.core.protocols/fn[39m
+[35m            protocols.clj:13 clojure.core.protocols/fn[fn][39m
+[35m               core.clj:6289 clojure.core/reduce[39m
+[35m               core.clj:6353 clojure.core/mapv[39m
+[32m                auto.clj:180 clojurescript-build.auto/autobuild*[fn][39m
+[32m                auto.clj:176 clojurescript-build.auto/autobuild*[fn][39m
+[35m          ioc_macros.clj:940 clojure.core.async.impl.ioc-macros/run-state-machine[39m
+[35m          ioc_macros.clj:944 clojure.core.async.impl.ioc-macros/run-state-machine-wrapped[39m
+[35m               async.clj:362 clojure.core.async/ioc-alts![fn][39m
+[35m               async.clj:231 clojure.core.async/do-alts[fn][39m
+[35m            channels.clj:262 clojure.core.async.impl.channels.ManyToManyChannel/fn[39m
+[36m                 AFn.java:22 clojure.lang.AFn.run[39m
+[34mThreadPoolExecutor.java:1145 java.util.concurrent.ThreadPoolExecutor.runWorker[39m
+[34m ThreadPoolExecutor.java:615 java.util.concurrent.ThreadPoolExecutor$Worker.run[39m
+[34m             Thread.java:745 java.lang.Thread.run[39m
+[31mCaused by: [39m[31mclojure.lang.ExceptionInfo: [39m[31mEOF while reading, starting at line 160[39m
+[35m               core.clj:4403 clojure.core/ex-info[39m
+[35m        reader_types.clj:336 clojure.tools.reader.reader-types/reader-error[39m
+[36m             RestFn.java:439 clojure.lang.RestFn.invoke[39m
+[35m              reader.clj:167 clojure.tools.reader/read-delimited[39m
+[35m              reader.clj:173 clojure.tools.reader/read-list[39m
+[35m              reader.clj:161 clojure.tools.reader/read-delimited[39m
+[35m              reader.clj:173 clojure.tools.reader/read-list[39m
+[35m              reader.clj:747 clojure.tools.reader/read[39m
+[35m              reader.clj:732 clojure.tools.reader/read[39m
+[32m           analyzer.clj:1742 cljs.analyzer/forms-seq[fn][39m
+[32m           analyzer.clj:1736 cljs.analyzer/forms-seq[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[32m            compiler.clj:946 cljs.compiler/compile-file*[fn][39m
+[32m            compiler.clj:906 cljs.compiler/with-core-cljs[39m
+[32m            compiler.clj:927 cljs.compiler/compile-file*[39m
+[32m           compiler.clj:1033 cljs.compiler/compile-file[39m
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.714 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.848 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+sending changed CSS file: /css/pong.css
+sending changed CSS file: /css/pong.css
+sending changed CSS file: /css/pong.css
+sending changed CSS file: /css/pong.css
+sending changed CSS file: /css/pong.css
+sending changed CSS file: /css/pong.css
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.358 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.377 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.361 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+WARNING: Use of undeclared Var matter-cljs-fun.pong/stringify at line 169 src/matter_cljs_fun/pong.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 1.274 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+WARNING: Use of undeclared Var matter-cljs-fun.pong/stringify at line 169 src/matter_cljs_fun/pong.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.773 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.397 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/util.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.918 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.846 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.68 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.141 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/util.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+WARNING: Use of undeclared Var matter-cljs-fun.util/Events at line 21 src/matter_cljs_fun/util.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.144 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/util.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+WARNING: Use of undeclared Var matter-cljs-fun.util/Events at line 21 src/matter_cljs_fun/util.cljs
+WARNING: Use of undeclared Var matter-cljs-fun.util/Events at line 24 src/matter_cljs_fun/util.cljs
+WARNING: Use of undeclared Var matter-cljs-fun.util/Events at line 27 src/matter_cljs_fun/util.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.162 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/util.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+WARNING: Use of undeclared Var matter-cljs-fun.util/Events at line 21 src/matter_cljs_fun/util.cljs
+WARNING: Use of undeclared Var matter-cljs-fun.util/Events at line 24 src/matter_cljs_fun/util.cljs
+WARNING: Use of undeclared Var matter-cljs-fun.util/Events at line 27 src/matter_cljs_fun/util.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.151 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/util.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+WARNING: Use of undeclared Var matter-cljs-fun.util/Events at line 21 src/matter_cljs_fun/util.cljs
+WARNING: Use of undeclared Var matter-cljs-fun.util/Events at line 24 src/matter_cljs_fun/util.cljs
+WARNING: Use of undeclared Var matter-cljs-fun.util/Events at line 27 src/matter_cljs_fun/util.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.14 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/util.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/matter_cljs_fun.js" failed.[0m
+[31mclojure.lang.ExceptionInfo: [39m[31mfailed compiling file:src/matter_cljs_fun/pong.cljs[39m
+[35m               core.clj:4403 clojure.core/ex-info[39m
+[32m           compiler.clj:1039 cljs.compiler/compile-file[39m
+[32m           compiler.clj:1069 cljs.compiler/compile-root[39m
+[32m             closure.clj:358 cljs.closure/compile-dir[39m
+[32m             closure.clj:398 cljs.closure/eval10834[fn][39m
+[32m             closure.clj:306 cljs.closure/eval10770[fn][39m
+[32m             closure.clj:412 cljs.closure/eval10821[fn][39m
+[32m             closure.clj:306 cljs.closure/eval10770[fn][39m
+[32m                 core.clj:18 clojurescript-build.core.CompilableSourcePaths/fn[39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[35m                core.clj:624 clojure.core/apply[39m
+[35m               core.clj:2586 clojure.core/mapcat[39m
+[36m             RestFn.java:423 clojure.lang.RestFn.invoke[39m
+[32m                 core.clj:18 clojurescript-build.core/clojurescript-build.core.CompilableSourcePaths[39m
+[32m            closure.clj:1018 cljs.closure/build[39m
+[32m                core.clj:150 clojurescript-build.core/build-source-paths*[39m
+[32m                 auto.clj:86 clojurescript-build.auto/warning[fn][39m
+[32m                 auto.clj:55 clojurescript-build.auto/time-build[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:71 clojurescript-build.auto/error[fn][39m
+[32m                 auto.clj:60 clojurescript-build.auto/before[fn][39m
+[32m                auto.clj:103 clojurescript-build.auto/make-conditional-builder[fn][39m
+[35m               core.clj:6353 clojure.core/mapv[fn][39m
+[36m          ArrayChunk.java:58 clojure.lang.ArrayChunk.reduce[39m
+[35m            protocols.clj:98 clojure.core.protocols/fn[39m
+[35m            protocols.clj:19 clojure.core.protocols/fn[fn][39m
+[35m            protocols.clj:31 clojure.core.protocols/seq-reduce[39m
+[35m            protocols.clj:60 clojure.core.protocols/fn[39m
+[35m            protocols.clj:13 clojure.core.protocols/fn[fn][39m
+[35m               core.clj:6289 clojure.core/reduce[39m
+[35m               core.clj:6353 clojure.core/mapv[39m
+[32m                auto.clj:180 clojurescript-build.auto/autobuild*[fn][39m
+[32m                auto.clj:176 clojurescript-build.auto/autobuild*[fn][39m
+[35m          ioc_macros.clj:940 clojure.core.async.impl.ioc-macros/run-state-machine[39m
+[35m          ioc_macros.clj:944 clojure.core.async.impl.ioc-macros/run-state-machine-wrapped[39m
+[35m               async.clj:362 clojure.core.async/ioc-alts![fn][39m
+[35m               async.clj:231 clojure.core.async/do-alts[fn][39m
+[35m            channels.clj:262 clojure.core.async.impl.channels.ManyToManyChannel/fn[39m
+[36m                 AFn.java:22 clojure.lang.AFn.run[39m
+[34mThreadPoolExecutor.java:1145 java.util.concurrent.ThreadPoolExecutor.runWorker[39m
+[34m ThreadPoolExecutor.java:615 java.util.concurrent.ThreadPoolExecutor$Worker.run[39m
+[34m             Thread.java:745 java.lang.Thread.run[39m
+[31mCaused by: [39m[31mclojure.lang.ExceptionInfo: [39m[31mEOF while reading, starting at line 167[39m
+[35m               core.clj:4403 clojure.core/ex-info[39m
+[35m        reader_types.clj:336 clojure.tools.reader.reader-types/reader-error[39m
+[36m             RestFn.java:439 clojure.lang.RestFn.invoke[39m
+[35m              reader.clj:167 clojure.tools.reader/read-delimited[39m
+[35m              reader.clj:173 clojure.tools.reader/read-list[39m
+[35m              reader.clj:747 clojure.tools.reader/read[39m
+[35m              reader.clj:732 clojure.tools.reader/read[39m
+[32m           analyzer.clj:1742 cljs.analyzer/forms-seq[fn][39m
+[32m           analyzer.clj:1736 cljs.analyzer/forms-seq[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[32m            compiler.clj:946 cljs.compiler/compile-file*[fn][39m
+[32m            compiler.clj:906 cljs.compiler/with-core-cljs[39m
+[32m            compiler.clj:927 cljs.compiler/compile-file*[39m
+[32m           compiler.clj:1033 cljs.compiler/compile-file[39m
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/matter_cljs_fun.js" failed.[0m
+[31mclojure.lang.ExceptionInfo: [39m[31mfailed compiling file:src/matter_cljs_fun/pong.cljs[39m
+[35m               core.clj:4403 clojure.core/ex-info[39m
+[32m           compiler.clj:1039 cljs.compiler/compile-file[39m
+[32m           compiler.clj:1069 cljs.compiler/compile-root[39m
+[32m             closure.clj:358 cljs.closure/compile-dir[39m
+[32m             closure.clj:398 cljs.closure/eval10834[fn][39m
+[32m             closure.clj:306 cljs.closure/eval10770[fn][39m
+[32m             closure.clj:412 cljs.closure/eval10821[fn][39m
+[32m             closure.clj:306 cljs.closure/eval10770[fn][39m
+[32m                 core.clj:18 clojurescript-build.core.CompilableSourcePaths/fn[39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[35m                core.clj:624 clojure.core/apply[39m
+[35m               core.clj:2586 clojure.core/mapcat[39m
+[36m             RestFn.java:423 clojure.lang.RestFn.invoke[39m
+[32m                 core.clj:18 clojurescript-build.core/clojurescript-build.core.CompilableSourcePaths[39m
+[32m            closure.clj:1018 cljs.closure/build[39m
+[32m                core.clj:150 clojurescript-build.core/build-source-paths*[39m
+[32m                 auto.clj:86 clojurescript-build.auto/warning[fn][39m
+[32m                 auto.clj:55 clojurescript-build.auto/time-build[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:71 clojurescript-build.auto/error[fn][39m
+[32m                 auto.clj:60 clojurescript-build.auto/before[fn][39m
+[32m                auto.clj:103 clojurescript-build.auto/make-conditional-builder[fn][39m
+[35m               core.clj:6353 clojure.core/mapv[fn][39m
+[36m          ArrayChunk.java:58 clojure.lang.ArrayChunk.reduce[39m
+[35m            protocols.clj:98 clojure.core.protocols/fn[39m
+[35m            protocols.clj:19 clojure.core.protocols/fn[fn][39m
+[35m            protocols.clj:31 clojure.core.protocols/seq-reduce[39m
+[35m            protocols.clj:60 clojure.core.protocols/fn[39m
+[35m            protocols.clj:13 clojure.core.protocols/fn[fn][39m
+[35m               core.clj:6289 clojure.core/reduce[39m
+[35m               core.clj:6353 clojure.core/mapv[39m
+[32m                auto.clj:180 clojurescript-build.auto/autobuild*[fn][39m
+[32m                auto.clj:176 clojurescript-build.auto/autobuild*[fn][39m
+[35m          ioc_macros.clj:940 clojure.core.async.impl.ioc-macros/run-state-machine[39m
+[35m          ioc_macros.clj:944 clojure.core.async.impl.ioc-macros/run-state-machine-wrapped[39m
+[35m               async.clj:362 clojure.core.async/ioc-alts![fn][39m
+[35m               async.clj:231 clojure.core.async/do-alts[fn][39m
+[35m            channels.clj:262 clojure.core.async.impl.channels.ManyToManyChannel/fn[39m
+[36m                 AFn.java:22 clojure.lang.AFn.run[39m
+[34mThreadPoolExecutor.java:1145 java.util.concurrent.ThreadPoolExecutor.runWorker[39m
+[34m ThreadPoolExecutor.java:615 java.util.concurrent.ThreadPoolExecutor$Worker.run[39m
+[34m             Thread.java:745 java.lang.Thread.run[39m
+[31mCaused by: [39m[31mclojure.lang.ExceptionInfo: [39m[31mEOF while reading, starting at line 167[39m
+[35m               core.clj:4403 clojure.core/ex-info[39m
+[35m        reader_types.clj:336 clojure.tools.reader.reader-types/reader-error[39m
+[36m             RestFn.java:439 clojure.lang.RestFn.invoke[39m
+[35m              reader.clj:167 clojure.tools.reader/read-delimited[39m
+[35m              reader.clj:173 clojure.tools.reader/read-list[39m
+[35m              reader.clj:747 clojure.tools.reader/read[39m
+[35m              reader.clj:732 clojure.tools.reader/read[39m
+[32m           analyzer.clj:1742 cljs.analyzer/forms-seq[fn][39m
+[32m           analyzer.clj:1736 cljs.analyzer/forms-seq[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[32m            compiler.clj:946 cljs.compiler/compile-file*[fn][39m
+[32m            compiler.clj:906 cljs.compiler/with-core-cljs[39m
+[32m            compiler.clj:927 cljs.compiler/compile-file*[39m
+[32m           compiler.clj:1033 cljs.compiler/compile-file[39m
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.436 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.158 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/util.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/matter_cljs_fun.js" failed.[0m
+[31mclojure.lang.ExceptionInfo: [39m[31mfailed compiling file:src/matter_cljs_fun/pong.cljs[39m
+[35m               core.clj:4403 clojure.core/ex-info[39m
+[32m           compiler.clj:1039 cljs.compiler/compile-file[39m
+[32m           compiler.clj:1069 cljs.compiler/compile-root[39m
+[32m             closure.clj:358 cljs.closure/compile-dir[39m
+[32m             closure.clj:398 cljs.closure/eval10834[fn][39m
+[32m             closure.clj:306 cljs.closure/eval10770[fn][39m
+[32m             closure.clj:412 cljs.closure/eval10821[fn][39m
+[32m             closure.clj:306 cljs.closure/eval10770[fn][39m
+[32m                 core.clj:18 clojurescript-build.core.CompilableSourcePaths/fn[39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[35m                core.clj:624 clojure.core/apply[39m
+[35m               core.clj:2586 clojure.core/mapcat[39m
+[36m             RestFn.java:423 clojure.lang.RestFn.invoke[39m
+[32m                 core.clj:18 clojurescript-build.core/clojurescript-build.core.CompilableSourcePaths[39m
+[32m            closure.clj:1018 cljs.closure/build[39m
+[32m                core.clj:150 clojurescript-build.core/build-source-paths*[39m
+[32m                 auto.clj:86 clojurescript-build.auto/warning[fn][39m
+[32m                 auto.clj:55 clojurescript-build.auto/time-build[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:71 clojurescript-build.auto/error[fn][39m
+[32m                 auto.clj:60 clojurescript-build.auto/before[fn][39m
+[32m                auto.clj:103 clojurescript-build.auto/make-conditional-builder[fn][39m
+[35m               core.clj:6353 clojure.core/mapv[fn][39m
+[36m          ArrayChunk.java:58 clojure.lang.ArrayChunk.reduce[39m
+[35m            protocols.clj:98 clojure.core.protocols/fn[39m
+[35m            protocols.clj:19 clojure.core.protocols/fn[fn][39m
+[35m            protocols.clj:31 clojure.core.protocols/seq-reduce[39m
+[35m            protocols.clj:60 clojure.core.protocols/fn[39m
+[35m            protocols.clj:13 clojure.core.protocols/fn[fn][39m
+[35m               core.clj:6289 clojure.core/reduce[39m
+[35m               core.clj:6353 clojure.core/mapv[39m
+[32m                auto.clj:180 clojurescript-build.auto/autobuild*[fn][39m
+[32m                auto.clj:176 clojurescript-build.auto/autobuild*[fn][39m
+[35m          ioc_macros.clj:940 clojure.core.async.impl.ioc-macros/run-state-machine[39m
+[35m          ioc_macros.clj:944 clojure.core.async.impl.ioc-macros/run-state-machine-wrapped[39m
+[35m               async.clj:362 clojure.core.async/ioc-alts![fn][39m
+[35m               async.clj:231 clojure.core.async/do-alts[fn][39m
+[35m            channels.clj:262 clojure.core.async.impl.channels.ManyToManyChannel/fn[39m
+[36m                 AFn.java:22 clojure.lang.AFn.run[39m
+[34mThreadPoolExecutor.java:1145 java.util.concurrent.ThreadPoolExecutor.runWorker[39m
+[34m ThreadPoolExecutor.java:615 java.util.concurrent.ThreadPoolExecutor$Worker.run[39m
+[34m             Thread.java:745 java.lang.Thread.run[39m
+[31mCaused by: [39m[31mclojure.lang.ExceptionInfo: [39m[31mEOF while reading, starting at line 167[39m
+[35m               core.clj:4403 clojure.core/ex-info[39m
+[35m        reader_types.clj:336 clojure.tools.reader.reader-types/reader-error[39m
+[36m             RestFn.java:439 clojure.lang.RestFn.invoke[39m
+[35m              reader.clj:167 clojure.tools.reader/read-delimited[39m
+[35m              reader.clj:173 clojure.tools.reader/read-list[39m
+[35m              reader.clj:747 clojure.tools.reader/read[39m
+[35m              reader.clj:732 clojure.tools.reader/read[39m
+[32m           analyzer.clj:1742 cljs.analyzer/forms-seq[fn][39m
+[32m           analyzer.clj:1736 cljs.analyzer/forms-seq[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[32m            compiler.clj:946 cljs.compiler/compile-file*[fn][39m
+[32m            compiler.clj:906 cljs.compiler/with-core-cljs[39m
+[32m            compiler.clj:927 cljs.compiler/compile-file*[39m
+[32m           compiler.clj:1033 cljs.compiler/compile-file[39m
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.667 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.683 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.642 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.593 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.315 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/util.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 1.063 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.701 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.621 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 1.354 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.651 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.347 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.142 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/util.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.866 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.693 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.689 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.806 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.663 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+sending changed CSS file: /css/pong.css
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.427 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.701 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.46 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 1.605 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.523 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.613 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 1.781 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.399 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 1.354 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+WARNING: Use of undeclared Var om.core/render-to-string at line 184 src/matter_cljs_fun/pong.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.647 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+WARNING: Use of undeclared Var om.core/render-to-str at line 184 src/matter_cljs_fun/pong.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.458 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+WARNING: Use of undeclared Var om-tools.dom/render-to-str at line 184 src/matter_cljs_fun/pong.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.434 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.728 seconds.[0m
+notifying browser that file changed:  /js/compiled/matter_cljs_fun.js
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to om.core/build at line 186 src/matter_cljs_fun/pong.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 2.449 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+WARNING: Wrong number of args (1) passed to om.core/build at line 186 src/matter_cljs_fun/pong.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 2.634 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 2.497 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 1.466 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 2.147 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+WARNING: Use of undeclared Var matter-cljs-fun.pong/update-after-render at line 188 src/matter_cljs_fun/pong.cljs
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 2.098 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 1.421 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.61 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.59 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.49 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[31mCompiling "resources/public/js/compiled/matter_cljs_fun.js" failed.[0m
+[31mclojure.lang.ExceptionInfo: [39m[31mfailed compiling file:src/matter_cljs_fun/pong.cljs[39m
+[35m               core.clj:4403 clojure.core/ex-info[39m
+[32m           compiler.clj:1039 cljs.compiler/compile-file[39m
+[32m           compiler.clj:1069 cljs.compiler/compile-root[39m
+[32m             closure.clj:358 cljs.closure/compile-dir[39m
+[32m             closure.clj:398 cljs.closure/eval10834[fn][39m
+[32m             closure.clj:306 cljs.closure/eval10770[fn][39m
+[32m             closure.clj:412 cljs.closure/eval10821[fn][39m
+[32m             closure.clj:306 cljs.closure/eval10770[fn][39m
+[32m                 core.clj:18 clojurescript-build.core.CompilableSourcePaths/fn[39m
+[35m               core.clj:2557 clojure.core/map[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[35m                core.clj:624 clojure.core/apply[39m
+[35m               core.clj:2586 clojure.core/mapcat[39m
+[36m             RestFn.java:423 clojure.lang.RestFn.invoke[39m
+[32m                 core.clj:18 clojurescript-build.core/clojurescript-build.core.CompilableSourcePaths[39m
+[32m            closure.clj:1018 cljs.closure/build[39m
+[32m                core.clj:150 clojurescript-build.core/build-source-paths*[39m
+[32m                 auto.clj:86 clojurescript-build.auto/warning[fn][39m
+[32m                 auto.clj:55 clojurescript-build.auto/time-build[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:64 clojurescript-build.auto/after[fn][39m
+[32m                 auto.clj:71 clojurescript-build.auto/error[fn][39m
+[32m                 auto.clj:60 clojurescript-build.auto/before[fn][39m
+[32m                auto.clj:103 clojurescript-build.auto/make-conditional-builder[fn][39m
+[35m               core.clj:6353 clojure.core/mapv[fn][39m
+[36m          ArrayChunk.java:58 clojure.lang.ArrayChunk.reduce[39m
+[35m            protocols.clj:98 clojure.core.protocols/fn[39m
+[35m            protocols.clj:19 clojure.core.protocols/fn[fn][39m
+[35m            protocols.clj:31 clojure.core.protocols/seq-reduce[39m
+[35m            protocols.clj:60 clojure.core.protocols/fn[39m
+[35m            protocols.clj:13 clojure.core.protocols/fn[fn][39m
+[35m               core.clj:6289 clojure.core/reduce[39m
+[35m               core.clj:6353 clojure.core/mapv[39m
+[32m                auto.clj:180 clojurescript-build.auto/autobuild*[fn][39m
+[32m                auto.clj:176 clojurescript-build.auto/autobuild*[fn][39m
+[35m          ioc_macros.clj:940 clojure.core.async.impl.ioc-macros/run-state-machine[39m
+[35m          ioc_macros.clj:944 clojure.core.async.impl.ioc-macros/run-state-machine-wrapped[39m
+[35m               async.clj:362 clojure.core.async/ioc-alts![fn][39m
+[35m               async.clj:231 clojure.core.async/do-alts[fn][39m
+[35m            channels.clj:262 clojure.core.async.impl.channels.ManyToManyChannel/fn[39m
+[36m                 AFn.java:22 clojure.lang.AFn.run[39m
+[34mThreadPoolExecutor.java:1145 java.util.concurrent.ThreadPoolExecutor.runWorker[39m
+[34m ThreadPoolExecutor.java:615 java.util.concurrent.ThreadPoolExecutor$Worker.run[39m
+[34m             Thread.java:745 java.lang.Thread.run[39m
+[31mCaused by: [39m[31mclojure.lang.ExceptionInfo: [39m[31mUnmatched delimiter }[39m
+[35m               core.clj:4403 clojure.core/ex-info[39m
+[35m        reader_types.clj:336 clojure.tools.reader.reader-types/reader-error[39m
+[36m             RestFn.java:439 clojure.lang.RestFn.invoke[39m
+[35m               reader.clj:65 clojure.tools.reader/read-unmatched-delimiter[39m
+[35m              reader.clj:161 clojure.tools.reader/read-delimited[39m
+[35m              reader.clj:173 clojure.tools.reader/read-list[39m
+[35m              reader.clj:161 clojure.tools.reader/read-delimited[39m
+[35m              reader.clj:209 clojure.tools.reader/read-map[39m
+[35m              reader.clj:161 clojure.tools.reader/read-delimited[39m
+[35m              reader.clj:173 clojure.tools.reader/read-list[39m
+[35m              reader.clj:161 clojure.tools.reader/read-delimited[39m
+[35m              reader.clj:173 clojure.tools.reader/read-list[39m
+[35m              reader.clj:747 clojure.tools.reader/read[39m
+[35m              reader.clj:732 clojure.tools.reader/read[39m
+[32m           analyzer.clj:1742 cljs.analyzer/forms-seq[fn][39m
+[32m           analyzer.clj:1736 cljs.analyzer/forms-seq[fn][39m
+[36m             LazySeq.java:40 clojure.lang.LazySeq.sval[39m
+[36m             LazySeq.java:49 clojure.lang.LazySeq.seq[39m
+[36m                 RT.java:484 clojure.lang.RT.seq[39m
+[35m                core.clj:133 clojure.core/seq[39m
+[32m            compiler.clj:946 cljs.compiler/compile-file*[fn][39m
+[32m            compiler.clj:906 cljs.compiler/with-core-cljs[39m
+[32m            compiler.clj:927 cljs.compiler/compile-file*[39m
+[32m           compiler.clj:1033 cljs.compiler/compile-file[39m
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.404 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.518 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.776 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.635 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.765 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.66 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.588 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.577 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.596 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.762 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.646 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.638 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.917 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.678 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.681 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.767 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.709 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.646 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js
+[0mCompiling "resources/public/js/compiled/matter_cljs_fun.js" from ["src"]...
+[32mSuccessfully compiled "resources/public/js/compiled/matter_cljs_fun.js" in 0.752 seconds.[0m
+notifying browser that file changed:  /js/compiled/out/matter_cljs_fun/pong.js

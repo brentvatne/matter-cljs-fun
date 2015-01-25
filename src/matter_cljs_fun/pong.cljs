@@ -1,11 +1,14 @@
 (ns matter-cljs-fun.pong
   (:require-macros [cljs.core.async.macros :refer [go go-loop]])
-  (:require [cljs.core.async :as async
-             :refer [>! <! put! chan alts! timeout]]
-            [matter-cljs-fun.util
-             :refer [Matter Engine World Body Bodies Composites Composite
-                     on-click keys-chan events->chan on-click]]
+  (:require [cljs.core.async :as async :refer [>! <! put! chan alts! timeout]]
+            [matter-cljs-fun.util :as util :refer [Matter Engine World Body Bodies Composites Composite
+                                          on-click keys-chan events->chan on-click by-id set-html!
+                                          stringify]]
             [goog.events :as events]
+            [om.core :as om :include-macros true]
+            [om.dom :as om-dom]
+            [om-tools.core :refer-macros [defcomponent]]
+            [om-tools.dom :as dom :include-macros true]
             [figwheel.client :as fw]
             [goog.dom.classes :as classes]))
 
@@ -64,14 +67,6 @@
 (defn pos-x [body] (:x (pos body)))
 (defn pos-y [body] (:y (pos body)))
 
-(defn apply-force [body strength]
-  ;; If switching direction, should decrease at a much
-  ;; faster spead (slam on the breaks)
-  (.applyForce Body body
-               #js {:x 0 :y 0}
-               #js {:x strength :y 0})
-  (aset body "torque" 0))
-
 (defn translate [body x y] (.translate Body body #js {:x x :y y}))
 (defn velocity-x [body] (aget body "velocity" "x"))
 (defn abs [n] (max n (- n)))
@@ -84,18 +79,27 @@
       (< v -0.7) :left
       :else   :none)))
 
+(defn apply-force [body strength]
+  ;; If switching direction, should decrease at a much
+  ;; faster spead (slam on the breaks)
+  (let [x-src (pos-x body)
+        y-src (pos-y body)]
+    (.applyForce Body body
+                 #js {:x (+ x-src 100) :y y-src}
+                 #js {:x strength :y 0})
+    (aset body "torque" 0)))
+
 (defn brake-force [paddle]
   (let [dir (current-direction paddle)
         v   (velocity-x paddle)]
     (cond
-      (= :right dir) (* -0.004)
-      (= :left dir)  (* 0.004)
+      (= :right dir) (* -0.002)
+      (= :left dir)  (* 0.002)
       (= :none dir)  0)))
 
 (defn slam-brakes! [paddle]
   (let [f (brake-force paddle)]
-    (.log js/console paddle)
-    (apply-force paddle f)))
+    (.resetForcesAll Body [paddle])))
 
 
 (defn move-paddle! [paddle direction]
@@ -103,12 +107,10 @@
         current-dir (current-direction paddle)
         x (pos-x paddle)
         x-offset (* 3 dir)]
-    (when (and (< (velocity-x paddle) 0.6) (= :right direction))
-      (apply-force paddle 0.03))
-    (when (and (> (velocity-x paddle) -0.6) (= :left direction))
-      (apply-force paddle -0.03))
-    (.log js/console current-direction)
-    (.log js/console direction)
+    (when (and (< (velocity-x paddle) 20) (= :right direction))
+      (apply-force paddle 0.005))
+    (when (and (> (velocity-x paddle) -20) (= :left direction))
+      (apply-force paddle -0.005))
     (when-not (= current-dir direction)
       (slam-brakes! paddle))))
 
@@ -128,12 +130,14 @@
 (defn build-world []
   (add-bodies [user-paddle cpu-paddle left-wall right-wall]))
 
-(defn initialize []
-  (build-world)
-  (accept-user-input!)
-  (.run Engine engine))
-
-(.addEventListener js/document "DOMContentLoaded" initialize)
+(defn display-statistics! [paddle dom-id]
+  (go-loop []
+    (let [v (velocity-x paddle)
+          x (:x (pos paddle))
+          y (:y (pos paddle))]
+      (set-html! dom-id (str "Velocity: " v)))
+      (<! (timeout 100))
+    (recur)))
 
 ;; Some useful helper functions for live reload
 (defn clear-paddles []
@@ -147,9 +151,80 @@
     (doseq [static (filter #(.-isStatic %) bodies)]
        (.removeBody Composite world static))))
 
+(defonce variable-controls-state
+  (atom {:torque {:val 0}
+         :acceleration {:val 0}
+         :x {:val 0}
+         :y {:val 0}}))
+
+(add-watch variable-controls-state :paddle-updater
+  (fn [key atom old-state new-state]
+    ; (.log js/console key)
+    ; (.log js/console atom)
+    ; (.log js/console old-state)
+    ; (.log js/console (clj->js new-state))
+    ))
+
+(defcomponent pretty-user-paddle-data [data owner]
+  (render [_]
+    (let [p user-paddle
+          data {:velocity (.-x (.-velocity p))
+                :angle    (.-angle p)
+                :torque   (.-torque p)
+                :speed    (.-speed p)
+                :angular-speed (.-angularSpeed p)
+                :motion (.-motion p)
+                :inertia (.-inertia p)
+                :inverse-intertia (.-inverseInertia p)}]
+      (dom/div
+        (map (fn [[k v]]
+          (dom/div
+            (dom/label (str (.-name k) ": " (.toFixed v 2))))) data)))))
+
+
+(defn update-after-render []
+  (util/on-tick engine (fn []
+    (om/root pretty-user-paddle-data  (atom {}) {:target (by-id "user-paddle-data")}) )))
+
+(update-after-render)
+
+(defcomponent torque-slider
+  [data owner]
+  (render [_]
+    (dom/div
+      (dom/label (str "Torque" (:val data)))
+      (dom/input {:type "range" :min 0 :max 1 :step 0.1 :id "torque-slider"
+                  :onChange (fn [e]
+                              (let [v (aget e "target" "value")]
+                                (om/update! data :val v)
+                                (aset user-paddle "torque" v)))}))))
+
+(defcomponent variable-controls
+  [data owner]
+  (render [_]
+    (dom/div
+      (om/build torque-slider (:torque data)))))
+
+(defn render-variable-controls []
+  (om/root variable-controls variable-controls-state
+           {:target (by-id "variable-tools-container")})
+
+  (om/root pretty-user-paddle-data  (atom {})
+           {:target (by-id "user-paddle-data")}))
+
+(defn initialize []
+  (build-world)
+  ; (display-statistics! user-paddle "user-paddle-statistics")
+  (render-variable-controls)
+  (accept-user-input!)
+  (.run Engine engine))
+
+(.addEventListener js/document "DOMContentLoaded" initialize)
+
 ;; Live reload
 (fw/start {:on-jsload (fn []
                (do (clear-statics)
+                   (render-variable-controls)
                    (build-world)
                    (.render Engine engine)
                    (println "other stuff")))})

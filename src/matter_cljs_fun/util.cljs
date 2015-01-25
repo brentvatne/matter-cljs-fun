@@ -9,12 +9,22 @@
 ;; Set up some helpers
 (def Matter (.-Matter js/window))
 (def Engine (.-Engine Matter))
+(def Events (.-Events Matter))
 (def World (.-World Matter))
 (def Body (.-Body Matter))
 (def Bodies (.-Bodies Matter))
 (def Constraint (.-Constraint Matter))
 (def Composites (.-Composites Matter))
 (def Composite (.-Composite Matter))
+
+(defn before-tick [engine handler]
+  (.on Events engine "beforeTick" handler))
+
+(defn on-tick [engine handler]
+  (.on Events engine "tick" handler))
+
+(defn after-tick [engine handler]
+  (.on Events engine "afterTick" handler))
 
 ;; Dom utility functions
 (defn add-event-listener [event id fun]
@@ -24,6 +34,17 @@
   "Given an id and callback handler it fires the callback when the
   element with the id is clicked"
   (partial add-event-listener "click"))
+
+(defn by-id
+  "Short-hand for document.getElementById(id)"
+  [id]
+  (.getElementById js/document id))
+
+(defn set-html!
+  "Given a CSS id, replace the matching DOM element's
+  content with the supplied string."
+  [id s]
+  (set! (.-innerHTML (by-id id)) s))
 
 ;; Channel functions
 (defn events->chan
@@ -41,6 +62,9 @@
   sourced from left and right arrow key presses."
   []
   (events->chan js/window EventType.KEYDOWN
-    (chan (dropping-buffer 5) (comp (map #(.-keyCode %))
+    (chan (dropping-buffer 1) (comp (map #(.-keyCode %))
                   (filter #{37 39 32})
                   (map {37 :left 39 :right 32 :space})))))
+
+(defn stringify [obj]
+ (.stringify js/JSON (.decycle js/JSON obj)))

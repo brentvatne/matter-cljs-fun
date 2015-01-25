@@ -14,5 +14,13 @@ goog.addDependency("../figwheel/client/socket.js", ['figwheel.client.socket'], [
 goog.addDependency("../figwheel/client/heads_up.js", ['figwheel.client.heads_up'], ['cljs.core', 'cljs.core.async', 'figwheel.client.socket', 'clojure.string']);
 goog.addDependency("../figwheel/client.js", ['figwheel.client'], ['goog.Uri', 'cljs.core', 'cljs.core.async', 'figwheel.client.file_reloading', 'figwheel.client.heads_up', 'figwheel.client.socket', 'clojure.string']);
 goog.addDependency("../matter_cljs_fun/util.js", ['matter_cljs_fun.util'], ['goog.dom.classes', 'cljs.core', 'cljs.core.async', 'goog.events.EventType', 'figwheel.client', 'goog.events']);
+goog.addDependency("../schema/utils.js", ['schema.utils'], ['goog.string', 'cljs.core', 'goog.string.format']);
+goog.addDependency("../schema/core.js", ['schema.core'], ['cljs.core', 'clojure.string', 'schema.utils']);
+goog.addDependency("../plumbing/fnk/schema.js", ['plumbing.fnk.schema'], ['schema.core', 'cljs.core', 'schema.utils']);
+goog.addDependency("../plumbing/core.js", ['plumbing.core'], ['cljs.core', 'plumbing.fnk.schema', 'schema.utils']);
+goog.addDependency("../om/dom.js", ['om.dom'], ['cljs.core', 'goog.object']);
+goog.addDependency("../om_tools/dom.js", ['om_tools.dom'], ['cljs.core', 'om.dom', 'clojure.string']);
+goog.addDependency("../om/core.js", ['om.core'], ['goog.dom', 'cljs.core', 'om.dom', 'goog.ui.IdGenerator']);
+goog.addDependency("../om_tools/core.js", ['om_tools.core'], ['plumbing.core', 'schema.core', 'cljs.core', 'om.core', 'plumbing.fnk.schema']);
 goog.addDependency("../matter_cljs_fun/plinko.js", ['matter_cljs_fun.plinko'], ['matter_cljs_fun.util', 'cljs.core', 'figwheel.client']);
-goog.addDependency("../matter_cljs_fun/pong.js", ['matter_cljs_fun.pong'], ['goog.dom.classes', 'matter_cljs_fun.util', 'cljs.core', 'cljs.core.async', 'figwheel.client', 'goog.events']);
+goog.addDependency("../matter_cljs_fun/pong.js", ['matter_cljs_fun.pong'], ['goog.dom.classes', 'matter_cljs_fun.util', 'om_tools.dom', 'om_tools.core', 'cljs.core', 'om.dom', 'cljs.core.async', 'figwheel.client', 'om.core', 'goog.events']);
